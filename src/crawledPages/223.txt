@@ -1,0 +1,1437 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+	<head>
+		<meta charset="UTF-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+<meta content="" name="description"/>
+<title>Brilliant Future // UCI</title>
+<link href="https://web.communications.uci.edu/assets/_common/favicon.ico" rel="icon" type="image/x-icon"/>
+<link href="https://web.communications.uci.edu/assets/_common/webclip-icon.png" rel="apple-touch-icon"/>
+<link crossorigin="anonymous" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.0/css/all.min.css" integrity="sha256-h20CPZ0QyXlBuAw7A+KluUYx/3pK+c7lYEpqLTlxjYQ=" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700;800&amp;display=swap" rel="stylesheet"/>
+<link href="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css" rel="stylesheet" type="text/css"/>
+<link href="files/css/styles.min.css" rel="stylesheet"/>
+<script crossorigin="anonymous" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" src="https://code.jquery.com/jquery-3.3.1.min.js" type="text/javascript"></script>
+
+
+<script>
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','myNewName','GTM-5TX57H3');
+</script>
+
+	</head>
+	<body class="home">
+		<div class="fence">
+			<svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" style="position: absolute; width: 0; height: 0; overflow: hidden;" version="1.1">
+<defs>
+	<symbol id="brei-icon-logo" viewBox="0 0 262 47">
+		<style type="text/css">
+			.uci-blue{fill:#0064A4;}
+			.white{fill:#ffffff}
+		</style>
+		<g class="white">
+			<path d="M134.03,1.02h7.18c1.77,0,3.16,0.49,4.05,1.37c0.71,0.71,1.06,1.57,1.06,2.63v0.04     c0,1.75-0.93,2.72-2.03,3.34c1.79,0.69,2.9,1.72,2.9,3.8v0.04c0,2.83-2.3,4.24-5.79,4.24h-7.36V1.02z M140.49,7.28     c1.5,0,2.45-0.49,2.45-1.64V5.6c0-1.02-0.8-1.59-2.23-1.59h-3.36v3.27H140.49z M141.39,13.51c1.5,0,2.41-0.53,2.41-1.68v-0.04     c0-1.04-0.77-1.68-2.52-1.68h-3.94v3.4H141.39z"/>
+			<path d="M150.88,1.02h7.07c1.97,0,3.49,0.55,4.51,1.57c0.86,0.86,1.33,2.08,1.33,3.54v0.04c0,2.5-1.35,4.07-3.32,4.8     l3.78,5.53h-3.98l-3.32-4.95h-0.04h-2.63v4.95h-3.4V1.02z M157.73,8.54c1.66,0,2.61-0.88,2.61-2.19V6.31     c0-1.46-1.02-2.21-2.67-2.21h-3.38v4.44H157.73z"/>
+			<path d="M167.9,1.02h3.4V16.5h-3.4V1.02z"/>
+			<path d="M176.06,1.02h3.4V13.4h7.72v3.1h-11.12V1.02z"/>
+			<path d="M190.63,1.02h3.4V13.4h7.72v3.1h-11.12V1.02z"/>
+			<path d="M205.35,1.02h3.4V16.5h-3.4V1.02z"/>
+			<path d="M218.81,0.91h3.14l6.63,15.58h-3.56l-1.41-3.47h-6.54l-1.41,3.47h-3.47L218.81,0.91z M222.4,10.02L220.34,5     l-2.06,5.02H222.4z"/>
+			<path d="M231.86,1.02H235l7.25,9.53V1.02h3.36V16.5h-2.9l-7.49-9.84v9.84h-3.36V1.02z"/>
+			<path d="M253.81,4.16h-4.71V1.02h12.82v3.14h-4.71V16.5h-3.4V4.16z"/>
+			<path d="M134.02,24.8h15.82v4.15h-11.25v4.42h9.91v4.15h-9.91v8.04h-4.57V24.8z"/>
+			<path d="M154.37,36.67V24.8h4.57v11.75c0,3.38,1.69,5.13,4.48,5.13s4.48-1.69,4.48-4.99V24.8h4.57v11.72     c0,6.29-3.53,9.38-9.11,9.38C157.79,45.9,154.37,42.79,154.37,36.67z"/>
+			<path d="M183.19,29.02h-6.32V24.8h17.21v4.21h-6.32v16.56h-4.57V29.02z"/>
+			<path d="M198.47,36.67V24.8h4.57v11.75c0,3.38,1.69,5.13,4.48,5.13S212,40,212,36.7V24.8h4.57v11.72     c0,6.29-3.53,9.38-9.11,9.38C201.88,45.9,198.47,42.79,198.47,36.67z"/>
+			<path d="M222.45,24.8h9.5c2.64,0,4.69,0.74,6.05,2.11c1.16,1.16,1.78,2.79,1.78,4.75v0.06     c0,3.35-1.81,5.46-4.45,6.44l5.08,7.42h-5.34l-4.45-6.65h-0.06h-3.53v6.65h-4.57V24.8z M231.65,34.89c2.23,0,3.5-1.19,3.5-2.94     v-0.06c0-1.96-1.36-2.97-3.59-2.97h-4.54v5.97H231.65z"/>
+			<path d="M245.12,24.8h15.67v4.07h-11.13v4.21h9.79v4.07h-9.79v4.36h11.28v4.07h-15.82V24.8z"/>
+			<path d="M0,26.15V0.9h12.59v24.99c0,6.49,3.28,9.57,8.29,9.57c5.08,0,8.35-2.95,8.35-9.25V0.9h12.59v24.93     c0,14.46-8.29,20.88-21.07,20.88C8.03,46.71,0,40.22,0,26.15z"/>
+			<path d="M47.87,23.52v-0.13C47.87,10.28,57.89,0,71.51,0c9.19,0,15.1,3.85,19.08,9.32l-9.38,7.26     c-2.57-3.15-5.53-5.27-9.83-5.27c-6.3,0-10.73,5.4-10.73,11.95v0.13c0,6.75,4.43,12.01,10.73,12.01c4.69,0,7.45-2.18,10.15-5.46     l9.38,6.68c-4.24,5.85-9.96,10.15-19.85,10.15C58.21,46.77,47.87,36.94,47.87,23.52z"/>
+			<path d="M97.92,0.9h12.46v44.97H97.92V0.9z"/>	
+		</g>
+	</symbol>
+</defs>
+</svg>
+			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<header id="page-header">
+	<a class="home wordmark" href="index.php">    <svg class="brei-icon brei-icon-logo" focusable="false">
+        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#brei-icon-logo">&#032;</use>
+    </svg>
+</a>
+
+	<nav id="primary-nav">
+	
+	        		
+        
+            
+        	
+	    
+	
+	    	    	        	                        
+	
+            <a href="who-we-are.php" class="nav-item link" target="">
+    
+    			<span class="tile"></span>
+    			<span class="label">Who We Are</span>
+    		</a>
+	    	
+	        		<div class="nav-item dropdown">
+    			<button aria-expanded="false" aria-haspopup="true" class="dropdown-toggle">
+    				<span class="tile"></span>
+    				<span class="label">What We Do
+					<span aria-hidden="true" class="icon inline-icon fas fa-caret-down"></span></span>
+    			</button>
+    			<div class="dropdown-menu">
+    	
+        	        
+    		        
+    		            
+    			        
+        
+            
+        	
+	    
+	
+	    	    	        	                        
+	
+            <a href="american-dream/index.php" class="dropdown-item" target="">
+    
+        					
+    
+    
+    <img alt="Hero" class="" src="files/img/home/american-dream-nav.jpg"/>
+
+        					<div>
+        						<p class="heading">
+        						    American Dream
+                                </p>
+        						<p class="snippet">
+                                    UCI is the nation's No. 1 university doing the most to advance upward mobility.
+                                </p>
+        					</div>
+        				</a>
+    				
+    		            
+    			        
+        
+            
+        	
+	    
+	
+	    	    	        	                        
+	
+            <a href="health-and-wellness/index.php" class="dropdown-item" target="">
+    
+        					
+    
+    
+    <img alt="Hero" class="" src="files/img/home/healthcare-nav.jpg"/>
+
+        					<div>
+        						<p class="heading">
+        						    Health &amp; Wellness
+                                </p>
+        						<p class="snippet">
+                                    We redefine how medical breakthroughs are achieved, how patients are treated and how communities are empowered.
+                                </p>
+        					</div>
+        				</a>
+    				
+    		            
+    			        
+        
+            
+        	
+	    
+	
+	    	    	        	                        
+	
+            <a href="research/index.php" class="dropdown-item" target="">
+    
+        					
+    
+    
+    <img alt="Hero" class="" src="files/img/home/research-nav.jpg"/>
+
+        					<div>
+        						<p class="heading">
+        						    Research
+                                </p>
+        						<p class="snippet">
+                                    UCI researchers are working on advances in science, medicine and innovation in record time.
+                                </p>
+        					</div>
+        				</a>
+    				
+    		            
+    			        
+        
+            
+        	
+	    
+	
+	    	    	        	                        
+	
+            <a href="human-experience/index.php" class="dropdown-item" target="">
+    
+        					
+    
+    
+    <img alt="Hero" class="" src="files/img/home/human-experience-nav.jpg"/>
+
+        					<div>
+        						<p class="heading">
+        						    Human Experience
+                                </p>
+        						<p class="snippet">
+                                    UCI is deepening the world's understanding of the many form of being human takes today, while renewing our shared sense of humanity in this diverse and digital age.
+                                </p>
+        					</div>
+        				</a>
+    				                </div>			
+    		</div>
+	    	
+	        		
+        
+            
+        	
+	    
+	
+	    	    	        	                        
+	
+            <a href="serving-oc.php" class="nav-item link" target="">
+    
+    			<span class="tile"></span>
+    			<span class="label">OC Community</span>
+    		</a>
+	    	
+	        		
+        
+            
+        	
+	    
+	
+	    	    	        	                        
+	
+            <a href="your-impact.php" class="nav-item link" target="">
+    
+    			<span class="tile"></span>
+    			<span class="label">Your Impact</span>
+    		</a>
+	    	
+	        		
+        
+            
+        	
+	    
+	
+	    	    	        	                        
+	
+            <a href="join-us.php" class="nav-item link" target="">
+    
+    			<span class="tile"></span>
+    			<span class="label">Join Us</span>
+    		</a>
+	    	    </nav>	
+
+	<div id="site-search">	
+		<button name="type" type="submit" value="Web">
+			<span aria-hidden="true" class="fas fa-search"></span>
+			<span class="sr-only">Search</span>
+		</button>
+	</div>
+	<button aria-expanded="false" id="primary-nav-toggle"><span class="sr-only">Show/Hide primary navigation</span><span aria-hidden="true" class="icon fas fa-bars"></span></button>
+
+	<div id="site-search-panel">		
+		<div>
+			<script async="async" src="https://cse.google.com/cse.js?cx=005164288799418305771:y_os04bnvcc"></script>
+			<div class="gcse-search"></div>
+			<button class="search-close">Close</button>
+		</div>
+	</div>
+
+	<script>
+        $(document).ready(function () {
+
+			$('#site-search-panel').css('opacity', 1.0);
+			$('#site-search-panel').hide();
+
+            $('#site-search button').click(function (event) {
+				event.preventDefault();
+				$('#site-search-panel').slideDown();
+            });
+
+            $('.search-close').click(function(){
+				$('#site-search-panel').slideUp();
+            });
+        });
+	</script>
+</header>
+
+	        <main id="page-main">
+			    
+
+
+    
+    
+	<div class="marquee">
+        <div class="marquee-image" style="background-image: url('files/img/research/homepage-hero-image.jpg');"></div>
+		<div class="marquee-components row h-100">
+			<div class="col">
+	                <a class="button button-desktop button-video" data-src="https://www.youtube.com/embed/Df3OInjinaI" data-target="#video-modal" data-toggle="modal" href="#">
+                    Watch Video
+                    <span aria-hidden="true" class="far fa-play-circle"></span>
+                </a>
+    				<div class="container">
+					<div class="banner">
+						<h2 class="heading">Stop At Nothing</h2>
+						                            <div class="cycle-slideshow" data-cycle-fx="scrollVert" data-cycle-reverse="true" data-cycle-slides="&gt; p">
+                                <p class="tag"><span>To be at the forefront of medicine.</span></p>
+                                <p class="tag"><span>To create a brilliant future.</span></p>
+                                <p class="tag"><span>To lead the way to a cure for cancer.</span></p>
+                                <p class="tag"><span>To inspire change in your community.</span></p>
+                            </div>
+                        	                        <a class="button button-mobile button-video" data-src="https://www.youtube.com/embed/Df3OInjinaI" data-target="#video-modal" data-toggle="modal" href="#">
+                            Watch Video
+                            <span aria-hidden="true" class="far fa-play-circle"></span>
+                        </a>
+    						<div class="snippet"><p class="snippet">As one of the nation&#8217;s premier public research universities and Orange County&#8217;s only academic health system, we stop at nothing to improve lives through groundbreaking research, academic achievement, thoughtful public service, exceptional patient care and cutting-edge treatments.</p></div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+            <script src="https://malsup.github.io/jquery.cycle2.js"></script>
+        <script src="https://malsup.github.io/jquery.cycle2.scrollVert.js"></script>
+        <script>
+            $('document').ready(function () {
+                $('.cycle-slideshow').on('cycle-before', function (event, optionHash, outgoingSlideEl, incomingSlideEl, forwardFlag) {
+                    $(outgoingSlideEl).children().css('opacity', 1.0);
+                    $(outgoingSlideEl).children().animate({
+                        opacity: 0.0
+                    }, 500);
+                    $(incomingSlideEl).children().css('opacity', 0.0);
+                    $(incomingSlideEl).children().animate({
+                        opacity: 1.0
+                    }, 750);
+                });
+            });
+        </script>	
+    
+			    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="carousel module">
+	<div class="module-content">
+		<p><strong>UCI is fiercely dedicated to enhancing lives in our community and beyond through rigorous academics and cutting-edge discoveries. Here are a few of our latest accomplishments.</strong></p>
+
+		<div class="carousel-slides">
+		    
+		    			<div class="carousel-slide">
+			    
+        
+    
+    <img alt="#1 choice for first-generation students among all UC campuses three years in a row" class="" src="files/img/home/california-accolade.svg"/>
+
+			</div>
+		    			<div class="carousel-slide">
+			    
+    
+    
+    <img alt="#1 Best College in the U.S., Money" class="" src="files/img/home/money-accolade.svg"/>
+
+			</div>
+		    			<div class="carousel-slide">
+			    
+    
+    
+    <img alt="#1 University in doing the most for the American dream, New York Times" class="" src="files/img/home/new-york-times-accolade.svg"/>
+
+			</div>
+		    			<div class="carousel-slide">
+			    
+    
+    
+    <img alt="#1 Best Value among Public Universities, Forbes" class="" src="files/img/home/forbes-accolade.svg"/>
+
+			</div>
+		    			<div class="carousel-slide">
+			    
+    
+    
+    <img alt="#8 Public University in the U.S., U.S. News &amp; World Report" class="" src="files/img/home/us-news2-accolade.svg"/>
+
+			</div>
+		    			<div class="carousel-slide">
+			    
+    
+    
+    <img alt="One of America's best hospitals for 20 consecutive years - US News &amp; World Report" class="" src="files/img/home/us-news-accolade.svg"/>
+
+			</div>
+		    			<div class="carousel-slide">
+			    
+    
+    
+    <img alt="Chao Family Comprehensive Cancer Center OC's first comprehensive National Cancer Institute, National Institutes of Health" class="" src="files/img/home/chao-accolade.svg"/>
+
+			</div>
+		    			<div class="carousel-slide">
+			    
+    
+    
+    <img alt="31 Graduate programs ranked in nation's top 25 among public universities, U.S. News &amp; World Report" class="" src="files/img/home/us-news3-accolade.svg"/>
+
+			</div>
+		    			<div class="carousel-slide">
+			    
+    
+    
+    <img alt="170+ UCI Health Doctors named as &quot;Physicians of Excellence&quot;, Orange County Medical Association" class="" src="files/img/home/ocma-accolade.svg"/>
+
+			</div>
+		    
+			<div class="carousel-prev carousel-button">
+				<span aria-hidden="true" class="fas fa-chevron-left"></span>
+			</div>
+			<div class="carousel-next carousel-button">
+				<span aria-hidden="true" class="fas fa-chevron-right"></span>
+			</div>
+		</div>
+	</div>
+</div>
+
+<script>
+    $(document).ready(function () {
+		$('.carousel-slides').slick({
+			dots: false,
+			infinite: true,
+			speed: 250,
+			slidesToShow: 3,
+			slidesToScroll: 1,
+			centerMode: false,
+			slide: '.carousel-slide',
+			nextArrow: '.carousel-next',
+			prevArrow: '.carousel-prev',
+			responsive: [
+			{
+				breakpoint: 1024,
+				settings: {
+				slidesToShow: 2,
+				slidesToScroll: 1,
+				}
+			},
+			{
+				breakpoint: 600,
+				settings: {
+				slidesToShow: 1,
+				slidesToScroll: 1
+				}
+			},
+			{
+				breakpoint: 480,
+				settings: {
+				slidesToShow: 1,
+				slidesToScroll: 1
+				}
+			}
+			// You can unslick at a given breakpoint now by adding:
+			// settings: "unslick"
+			// instead of a settings object
+			]
+		});
+    });
+</script>
+			    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+        
+            
+                        
+    
+	<div class="article category category-green module">
+	    
+        	    
+            		<div class="category-headline">
+                
+    
+    
+    <div aria-label="image-of-female-doctor" class="image category-headline-image" role="img" style="background-image: url('files/img/health-and-wellness/Conquering-COVID-hero.jpg')"></div>
+
+                <h2 class="headline">Conquering COVID-19</h2>
+    		</div>
+    	
+        <div class="module-content">
+             
+                        
+                <div class="category-introduction article-content">
+                                                
+                        <p><strong>UCI pioneered an interdisciplinary approach like no other, and our <br/>model of extreme collaboration puts us ahead of the curve.</strong></p>
+<p>No other local health system combines sophisticated clinical expertise in treating illness and keeping people healthy with the research and education designed to prevent disease and train tomorrow&#8217;s health professionals. UCI and UCI Health integrate seamlessly, combining discovery, teaching and healing to keep our community well. Our public health program has taken the lead in educating about prevention and containment.</p>
+                    
+                    
+            
+    
+        
+        
+    <div class="embed-responsive embed-responsive-16by9">
+        <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="allowfullscreen" src="https://www.youtube.com/embed/tShoVNQ4FP0?rel=0"></iframe>
+    </div>
+                                                </div>
+        	        	
+        	
+        	
+                        
+                        
+            
+                        
+                        <div class="row category-features">
+                                
+                                        
+                                        
+                    <div class="col-md-12 category-feature link-container">
+                        <div aria-label="covid testing" class="image category-feature-image" role="img" style="background-image: url('files/img/health-and-wellness/Answering-the-Call_Covid.png')"></div>
+                        <a href="health-and-wellness/covid-19/answering-the-call.php">Answering the Call</a>
+    				    <span class="tags">
+        				        				    </span>
+				    </div>
+                                
+                                        
+                                        
+                    <div class="col-md-12 category-feature link-container">
+                        <div aria-label="Test viles" class="image category-feature-image" role="img" style="background-image: url('files/img/health-and-wellness/OC-testing-800x533.jpg')"></div>
+                        <a href="health-and-wellness/covid-19/blood-will-tell.php">Blood Will Tell</a>
+    				    <span class="tags">
+        				        				    </span>
+				    </div>
+                            </div>
+            
+            
+                        
+                                
+                <div class="container-fluid">
+                    <div class="row category-links align-items-center">
+                        <div class="col-md-12 text-right">
+                            <strong>See more about how UCI is solving for</strong>
+                        </div>
+                        <div class="col-md-12">
+                                                                    
+        
+                
+            
+                
+        
+            <a href="https://uci.edu/brilliant/health-and-wellness/#covid-19" class="" target="_blank">
+    
+COVID-19</a>
+                                                                    
+        
+                
+            
+                
+        
+            <a href="https://uci.edu/brilliant/health-and-wellness/#medical-research" class="" target="_blank">
+    
+Medical Research</a>
+                                                                    
+        
+                
+            
+                
+        
+            <a href="https://uci.edu/brilliant/health-and-wellness/#pharmacy" class="" target="_blank">
+    
+Pharmacy</a>
+                                                    </div>
+                    </div>
+                </div>
+        	        </div>
+
+        
+                    
+        
+    <div class="did-you-know module">
+        <div class="module-content">
+    	    <h2>Did You Know?</h2>
+    	    <p>While all but essential research shut down, studies connected to COVID-19 ramped up as UCI&#8217;s scientific community mobilized in a quest to serve the public good. Researchers harnessed their intellectual resources to investigate how the coronavirus behaves and mutates. They created diagnostic tools to help doctors predict which patients are more likely to be admitted to the ICU. And they launched antibody and surveillance studies to better assess the prevalence of the virus in the population and to understand why some people with COVID-19 get very sick while others don&#8217;t. Charged with producing and disseminating factual, evidence-based data, these experts welcomed what they saw as a tremendous period of collaboration among colleagues throughout the nation and the world.</p>
+        </div>
+    </div>
+        	</div> 
+	
+	                        
+    
+	<div class="article category category-orange module">
+	    
+        	    
+            		<div class="category-headline">
+                
+    
+    
+    <div aria-label="image-of-researcher-in-lab" class="image category-headline-image" role="img" style="background-image: url('files/img/health-and-wellness/health-hero-image.jpg')"></div>
+
+                <h2 class="headline">TRANSFORMING HEALTHCARE AND WELLNESS</h2>
+    		</div>
+    	
+        <div class="module-content">
+             
+                        
+                <div class="category-introduction article-content">
+                                                
+                        <p>UCI is the place in America to pursue the most future-focused opportunities to improve human health and well-being. Beyond new cures, we are challenging the paradigm to create a sea change in healthcare: from episodic treatment of illness to dramatically enhancing well-being for life. Leveraging the strength of the entirety of UCI&#8217;s academic enterprise, we will redefine how new medical breakthroughs are discovered; how personalized, compassionate healthcare is taught; how patients are treated; and how communities are empowered for mental and physical health.</p>
+                                            </div>
+        	        	
+        	
+        	
+                        
+                        
+            
+                        
+                        <div class="row category-features">
+                                
+                                        
+                                        
+                    <div class="col-md-12 category-feature link-container">
+                        <div aria-label="Group of nurses" class="image category-feature-image" role="img" style="background-image: url('files/img/health-and-wellness/Group-of-nurses.jpg')"></div>
+                        <a href="health-and-wellness/nursing/saluting-our-nursing-heroes.php">We Salute Our Nursing Heroes </a>
+    				    <span class="tags">
+        				        				    </span>
+				    </div>
+                                
+                                        
+                                        
+                    <div class="col-md-12 category-feature link-container">
+                        <div aria-label="Rendering of proposed hospital" class="image category-feature-image" role="img" style="background-image: url('files/img/home/Irvine-Newport-Rendering-Oct-2020b-768x432.png')"></div>
+                        <a href="health-and-wellness/medical-research/UCI-to-build-world-class-hospital-on-Irvine-campus.php">UCI To Build World-Class Hospital On Irvine Campus</a>
+    				    <span class="tags">
+        				        				    </span>
+				    </div>
+                            </div>
+            
+            
+                        
+                                
+                <div class="container-fluid">
+                    <div class="row category-links align-items-center">
+                        <div class="col-md-12 text-right">
+                            <strong>See more about how UCI is leading the way in</strong>
+                        </div>
+                        <div class="col-md-12">
+                                                                    
+        
+                
+            
+                
+        
+            <a href="https://uci.edu/brilliant/health-and-wellness/#covid-19" class="" target="_blank">
+    
+COVID-19</a>
+                                                                    
+        
+                
+            
+                
+        
+            <a href="https://uci.edu/brilliant/health-and-wellness/#medical-research" class="" target="_blank">
+    
+Medical Research</a>
+                                                                    
+        
+                
+            
+                
+        
+            <a href="https://uci.edu/brilliant/health-and-wellness/#pharmacy" class="" target="_blank">
+    
+Pharmacy</a>
+                                                    </div>
+                    </div>
+                </div>
+        	        </div>
+
+        
+                    
+        
+    <div class="did-you-know module">
+        <div class="module-content">
+    	    <h2>Did you know?</h2>
+    	    <p>As the only academic health system in Orange County, our multifaceted organization is dedicated to the discovery of new medical frontiers, to the teaching of future healers and to the delivery of the finest evidence-based care.</p>
+<p>We are unique in our ability to provide the most compassionate healthcare because we&#8217;re driven by our passion for innovation, grounded in the best medical and scientific knowledge.</p>
+        </div>
+    </div>
+        	</div> 
+	
+	                        
+    
+	<div class="article category category-blue module">
+	    
+        	    
+            		<div class="category-headline">
+                
+    
+    
+    <div aria-label="female-researcher-in-lab" class="image category-headline-image" role="img" style="background-image: url('files/img/research/Collaboration-2.jpg')"></div>
+
+                <h2 class="headline">Addressing grand challenges through collaborative research</h2>
+    		</div>
+    	
+        <div class="module-content">
+             
+                        
+                <div class="category-introduction article-content">
+                                                
+                        Since its founding in 1965, UCI has been built on an ethos of interdisciplinary collaboration.<br/>Researchers from every part of UCI are working together to address the most pressing challenges<br/>facing humanity, from energy and the environment to lifesaving advances in biomedicine.
+                                            </div>
+        	        	
+        	
+        	
+                        
+                        
+            
+                        
+                        <div class="row category-features">
+                                
+                                        
+                                        
+                    <div class="col-md-12 category-feature link-container">
+                        <div aria-label="Ironclad beetle" class="image category-feature-image" role="img" style="background-image: url('files/img/research/P_diabolicusfa817349b610c85e0c985a715dda9433dcf89f4e1418ab47931824693411289c.jpg')"></div>
+                        <a href="research/engineering/uci-materials-scientists-draw-inspiration-from-the-natural-world.php">UCI Materials Scientists Draw Inspiration From The Natural World </a>
+    				    <span class="tags">
+        				        				    </span>
+				    </div>
+                                
+                                        
+                                        
+                    <div class="col-md-12 category-feature link-container">
+                        <div aria-label="Xiangmin Xu" class="image category-feature-image" role="img" style="background-image: url('files/img/research/Innovation/201130_ISEB_0327_sz-2500x1523f94cfaaf0c1b63969dc7d5a648460f28b62486e97c7b6d3fcf097fd399d5a6af.jpg')"></div>
+                        <a href="research/innovation/collaborative-approach-to-solving-global-challenges.php">A Collaborative Approach to Solving Global Challenges: Introducing UCI’s New Research Facility</a>
+    				    <span class="tags">
+        				        				    </span>
+				    </div>
+                            </div>
+            
+            
+                        
+                                
+                <div class="container-fluid">
+                    <div class="row category-links align-items-center">
+                        <div class="col-md-12 text-right">
+                            <strong>See more about how UCI is leading the way in</strong>
+                        </div>
+                        <div class="col-md-12">
+                                                                    
+        
+                
+            
+                
+        
+            <a href="https://uci.edu/brilliant/research/#education" class="" target="_blank">
+    
+Education</a>
+                                                                    
+        
+                
+            
+                
+        
+            <a href="https://uci.edu/brilliant/research" class="" target="_blank">
+    
+Research</a>
+                                                    </div>
+                    </div>
+                </div>
+        	        </div>
+
+        
+                    
+        
+    <div class="did-you-know module">
+        <div class="module-content">
+    	    <h2>Did You Know?</h2>
+    	    <p>Completed in 2020, UCI&#8217;s Interdisciplinary Science and Engineering Building comprises more than 200,000 square feet of research, office and meeting space. It houses faculty, staff and students from the schools of engineering, physical sciences, and information and computer sciences.</p>
+        </div>
+    </div>
+        	</div> 
+	
+	                        
+    
+	<div class="article category category-blue module">
+	    
+        	    
+            		<div class="category-headline">
+                
+    
+    
+    <div aria-label="image-of-pharmacist-in-lab" class="image category-headline-image" role="img" style="background-image: url('files/img/health-and-wellness/pharma_luiz_042319_174_sz.jpg')"></div>
+
+                <h2 class="headline">A PRESCRIPTION FOR THE FUTURE</h2>
+    		</div>
+    	
+        <div class="module-content">
+             
+                        
+                <div class="category-introduction article-content">
+                                                
+                        <p>UCI is writing the prescription that will reshape healthcare for the 21st century. As part of the Susan and Henry Samueli College of Health Sciences, the school will approach patient health holistically, conducting research and educating students on the entire continuum from drug discovery to clinical practice.</p>
+                                            </div>
+        	        	
+        	
+        	
+                        
+                        
+            
+                        
+                        <div class="row category-features">
+                                
+                                        
+                                        
+                    <div class="col-md-12 category-feature link-container">
+                        <div aria-label="Professor Amal Alachkar" class="image category-feature-image" role="img" style="background-image: url('files/img/health-and-wellness/Amal-Alachkar_Pharm-faculty.jpg')"></div>
+                        <a href="health-and-wellness/pharmacy/school-of-pharmacy-and-pharmaceutical-sciences.php">UCI’s School Of Pharmacy And Pharmaceutical Sciences Will Bring New Solutions To Advance Health And Wellness</a>
+    				    <span class="tags">
+        				        				    </span>
+				    </div>
+                                
+                                        
+                                        
+                    <div class="col-md-12 category-feature link-container">
+                        <div aria-label="Person holding vaccine" class="image category-feature-image" role="img" style="background-image: url('files/img/health-and-wellness/210116_vaccine_0729_sz-768x512.jpeg')"></div>
+                        <a href="health-and-wellness/pharmacy/uci-pharmacists-on-the-front-lines.php">UCI Pharmacists on the Front Lines</a>
+    				    <span class="tags">
+        				        				    </span>
+				    </div>
+                            </div>
+            
+            
+                        
+                                
+                <div class="container-fluid">
+                    <div class="row category-links align-items-center">
+                        <div class="col-md-12 text-right">
+                            <strong>See more about how UCI is leading the way in</strong>
+                        </div>
+                        <div class="col-md-12">
+                                                                    
+        
+                
+            
+                
+        
+            <a href="https://uci.edu/brilliant/health-and-wellness/#pharmacy" class="" target="_blank">
+    
+Pharmacy</a>
+                                                                    
+        
+                
+            
+                
+        
+            <a href="https://uci.edu/brilliant/health-and-wellness/#medical-research" class="" target="_blank">
+    
+Medical Research</a>
+                                                                    
+        
+                
+            
+                
+        
+            <a href="https://uci.edu/brilliant/health-and-wellness/#covid-19" class="" target="_blank">
+    
+COVID-19</a>
+                                                    </div>
+                    </div>
+                </div>
+        	        </div>
+
+        
+                    
+        
+    <div class="did-you-know module">
+        <div class="module-content">
+    	    <h2>Did you know?</h2>
+    	    <p>The Department of Pharmaceutical Sciences offers undergraduate and graduate students unparalleled training for future careers in pharmacy, medicine, and biomedical research. Our innovative, rigorous curriculum integrates concepts from biology, chemistry, chemical engineering, pharmacology and physiology. Alumni pursue exciting professional opportunities that improve our societies health and well-being.</p>
+<p>Pharmaceutical Scientists are rapidly changing the field of drug discovery and development. Graduates of our program are well qualified to seek employment in the public and private sectors, or pursue graduate degrees such as Ph.D., M.D., or Pharm.D.</p>
+        </div>
+    </div>
+        	</div> 
+	
+	                        
+    
+	<div class="article category category-orange module">
+	    
+        	    
+            		<div class="category-headline">
+                
+    
+    
+    <div aria-label="image-of-flooded-city" class="image category-headline-image" role="img" style="background-image: url('files/img/research/flooding.jpg')"></div>
+
+                <h2 class="headline">Tackling climate change</h2>
+    		</div>
+    	
+        <div class="module-content">
+             
+                        
+                <div class="category-introduction article-content">
+                                                
+                        <div class="content-intro">
+<p><strong>UCI Solved the Ozone Problem.</strong><span>&#160;</span>We will<span>&#160;</span><strong>Stop at Nothing to Tackle Climate Change.</strong><span>&#160;</span>Last year, the New York Times Editorial Board used research from UCI as the primary example of how scientific discovery can create transformative outcomes. When chemistry professor Sherry Rowland and his postdoc Mario Molina showed that chlorofluorocarbons (CFCs) deplete ozone they helped to launch a campaign that literally saved the world. Following their discovery, several changes in policy took effect in the U.S. and in 1987<span>&#160;</span><em><strong>the world agreed</strong></em><span>&#160;</span>on the Montreal Protocol, a global arrangement to protect the stratospheric ozone layer by phasing out the production and consumption of ozone-depleting substances. Fast forward to 2019 &#8212; the ozone hole was the smallest on record since its discovery.</p>
+<p>This inspirational UCI success story continues to shape the university today. Among our top priorities is to provide solutions to the problem of climate change, an effort that unites our world-class climate scientists, chemists, biologists, engineers, humanities scholars and social scientists as we explore bold ideas in fusion energy, carbon capture and policy implications and more.</p>
+</div>
+                                            </div>
+        	        	
+        	
+        	
+                        
+                        
+            
+                        
+                        <div class="row category-features">
+                                
+                                        
+                                        
+                    <div class="col-md-12 category-feature link-container">
+                        <div aria-label="Researchers collecting data " class="image category-feature-image" role="img" style="background-image: url('files/img/research/Research-center-007-copy.JPG')"></div>
+                        <a href="research/climate-change/using-science-to-serve-nature.php">Using Science To Serve Nature</a>
+    				    <span class="tags">
+        				        				    </span>
+				    </div>
+                                
+                                        
+                                        
+                    <div class="col-md-12 category-feature link-container">
+                        <div aria-label="Joleah Lamb under water" class="image category-feature-image" role="img" style="background-image: url('files/img/home/joleah-lamb.jpg')"></div>
+                        <a href="research/climate-change/11-Billion-Pieces-of-Deadly-Ocean-Plastic.php">Research Team Fights Back Against 11 Billion Pieces of Deadly Ocean Plastic</a>
+    				    <span class="tags">
+        				        				    </span>
+				    </div>
+                            </div>
+            
+            
+                        
+                                
+                <div class="container-fluid">
+                    <div class="row category-links align-items-center">
+                        <div class="col-md-12 text-right">
+                            <strong>See more about how UCI is solving for</strong>
+                        </div>
+                        <div class="col-md-12">
+                                                                    
+        
+                
+            
+                
+        
+            <a href="https://uci.edu/brilliant/research/#climate-change" class="" target="_blank">
+    
+Climate Change</a>
+                                                    </div>
+                    </div>
+                </div>
+        	        </div>
+
+        
+                    
+        
+    <div class="did-you-know module">
+        <div class="module-content">
+    	    <h2>Did You Know?</h2>
+    	    <p>UCI's legacy of sustainability began when shovel first hit dirt at the dedication of the campus by President Lyndon B. Johnson in 1964. <br/>The interdisciplinary applied focus of UCI's founding academic units continues to animate the campus. Today, UCI continues to go beyond the classroom to put research to work to improve lives, the community, and the world.</p>
+        </div>
+    </div>
+        	</div> 
+	
+	                        
+    
+	<div class="article category category-blue module">
+	    
+        	    
+            		<div class="category-headline">
+                
+    
+    
+    <div aria-label="image-of-lady-with-virtual-reality-device" class="image category-headline-image" role="img" style="background-image: url('files/img/research/ai_immerse.jpg')"></div>
+
+                <h2 class="headline">A hub of innovation and entrepreneurship</h2>
+    		</div>
+    	
+        <div class="module-content">
+             
+                        
+                <div class="category-introduction article-content">
+                                                
+                        <p><strong>Rising from a dusty ranch in an undeveloped, sparsely populated area of early Orange County, UCI has become a regional mecca for knowledge, discovery and health. </strong></p>
+<p>The first faculty, students and staff who arrived on the rolling coastal hills of the nascent campus had a pioneering spirit and an adventurous embrace of innovation, befitting of the new land. The pioneering, can-do spirit that transformed the remote ranch more than five decades ago still remains ingrained in the culture. UCI is determined to find cures, solve problems and constantly raise the bar, stopping at nothing to build a brighter future Orange County and the world.</p>
+                                            </div>
+        	        	
+        	
+        	
+                        
+                        
+            
+                        
+                        <div class="row category-features">
+                                
+                                        
+                                        
+                    <div class="col-md-12 category-feature link-container">
+                        <div aria-label="Patrick Dumas on skateboard" class="image category-feature-image" role="img" style="background-image: url('files/img/research/Dumas_021320_0394_sz.jpg')"></div>
+                        <a href="research/innovation/give-passion-a-greater-purpose.php">Riding An Entrepreneurial Wave</a>
+    				    <span class="tags">
+        				        				    </span>
+				    </div>
+                                
+                                        
+                                        
+                    <div class="col-md-12 category-feature link-container">
+                        <div aria-label="Elliot Botvinick" class="image category-feature-image" role="img" style="background-image: url('files/img/research/elliot-photo.jpg')"></div>
+                        <a href="research/innovation/saving-lives-through-biomedical-engineering.php">Saving Lives Through Biomedical Engineering</a>
+    				    <span class="tags">
+        				        				    </span>
+				    </div>
+                            </div>
+            
+            
+                        
+                                
+                <div class="container-fluid">
+                    <div class="row category-links align-items-center">
+                        <div class="col-md-12 text-right">
+                            <strong>See more about how UCI is leading the way in</strong>
+                        </div>
+                        <div class="col-md-12">
+                                                                    
+        
+                
+            
+                
+        
+            <a href="https://uci.edu/brilliant/research/#innovation" class="" target="_blank">
+    
+Innovation</a>
+                                                                    
+        
+                
+            
+                
+        
+            <a href="https://uci.edu/brilliant/health-and-wellness/#medical-research" class="" target="_blank">
+    
+Medical Research</a>
+                                                    </div>
+                    </div>
+                </div>
+        	        </div>
+
+        
+                    
+        
+    <div class="did-you-know module">
+        <div class="module-content">
+    	    <h2>Did You Know?</h2>
+    	    <p>UCI Beall Applied Innovation brings campus-based inventions and entrepreneurship together with Orange County's vibrant business community to support job creation and economic growth.</p>
+        </div>
+    </div>
+        	</div> 
+	
+	                        
+    
+	<div class="article category category-yellow module">
+	    
+        	    
+            		<div class="category-headline">
+                
+    
+    
+    <div aria-label="ai_cover_image" class="image category-headline-image" role="img" style="background-image: url('files/img/research/Jeffrey.Krichmar_ai-cover.jpg')"></div>
+
+                <h2 class="headline">Leading the way in AI</h2>
+    		</div>
+    	
+        <div class="module-content">
+             
+                        
+                <div class="category-introduction article-content">
+                                                
+                        <p>UCI researchers are working on what matters to all of us: saving the planet; securing data privacy; solving the mysteries of the brain, learning and memory; living longer, happier lives; and making our region one of the most prosperous global innovation hubs. With UCI's talent and enterprise adding billions to the economy, Orange County has become a high-performing ecosystem of medical device, computer gaming, cybersecurity and other high-tech firms that continue to have tremendous economic impact on our region, our state and our world.</p>
+                                            </div>
+        	        	
+        	
+        	
+                        
+                        
+            
+                        
+                        <div class="row category-features">
+                                
+                                        
+                                        
+                    <div class="col-md-12 category-feature link-container">
+                        <div aria-label="Dr. William Karnes" class="image category-feature-image" role="img" style="background-image: url('files/img/research/Cancer_111519_0391_800x533.jpg')"></div>
+                        <a href="research/artificial-intelligence/aI-colonoscopy-detects-precancerous-polyps.php">AI Colonoscopy Detects Precancerous Polyps</a>
+    				    <span class="tags">
+        				        				    </span>
+				    </div>
+                                
+                                        
+                                        
+                    <div class="col-md-12 category-feature link-container">
+                        <div aria-label="Stephan Mandt" class="image category-feature-image" role="img" style="background-image: url('files/img/research/Mandt_191126__SRZ7172.jpg')"></div>
+                        <a href="research/artificial-intelligence/uci-and-disney-research-scientists-develop-ai-enhanced-video-compression-model.php">UCI And Disney Research Scientists Develop AI-Enhanced Video Compression Model</a>
+    				    <span class="tags">
+        				        				    </span>
+				    </div>
+                            </div>
+            
+            
+                        
+                                
+                <div class="container-fluid">
+                    <div class="row category-links align-items-center">
+                        <div class="col-md-12 text-right">
+                            <strong>See more about how UCI is leading the way in</strong>
+                        </div>
+                        <div class="col-md-12">
+                                                                    
+        
+                
+            
+                
+        
+            <a href="https://uci.edu/brilliant/research/#artificial-intelligence" class="" target="_blank">
+    
+Artificial Intelligence</a>
+                                                    </div>
+                    </div>
+                </div>
+        	        </div>
+
+        
+                    
+        
+    <div class="did-you-know module">
+        <div class="module-content">
+    	    <h2>Did You Know?</h2>
+    	    <p>UCI and artificial intelligence go way back. In 1968, the campus opened the UC system&#8217;s first computer science department. At the helm was Julian Feldman, who had co-edited a groundbreaking anthology of AI research articles five years earlier. Almost immediately, the fledgling department began offering graduate seminars and workshops in artificial intelligence. But the lessons were largely theoretical. &#8220;A lot of the ideas we&#8217;re using now were around then,&#8221; says Padhraic Smyth, Chancellor&#8217;s Professor of computer science and founding director of the UCI Center for Machine Learning &amp; Intelligent Systems from 2007 to 2014. &#8220;But they couldn&#8217;t pursue them in the 1960s because computers were too primitive.&#8221; Indeed, when Feldman&#8217;s book was reissued in 1995, co-editor Edward Feigenbaum wrote the preface on an Apple Macintosh that he said possessed &#8220;far more processing power, more RAM, and more disk memory than the sum of all the computers that were being used by all the AI researchers [from] 1956-62.&#8221; From those humble beginnings, ICS faculty and alumni have helped pioneer some of the computing world&#8217;s most important advancements, including HTTP and the domain name system, two cornerstones of the internet.</p>
+        </div>
+    </div>
+        	</div> 
+	
+	                        
+    
+	<div class="article category category-green module">
+	    
+        	    
+            		<div class="category-headline">
+                
+    
+    
+    <div aria-label="image-of-art-gallery" class="image category-headline-image" role="img" style="background-image: url('files/img/human-experiece/future-museums2-2500x1667c0a6a63b9685c6613f3218dd5705e836b8ceb27cb99cd4ad88a8f0c403e2f65b.jpg')"></div>
+
+                <h2 class="headline">An epicenter for California art</h2>
+    		</div>
+    	
+        <div class="module-content">
+             
+                        
+                <div class="category-introduction article-content">
+                                                
+                        <p>With the acquisition of The Irvine Museum Collection in 2016 and the addition of The Buck Collection in 2017, UCI has become home to a significant collection of California art. To bring these collections together, the University founded the UCI Institute and Museum of California Art (IMCA) in 2018, with plans to construct a new museum facility on campus within the next few years.</p>
+<p>An on-campus museum realizes the original vision for the University of California&#8217;s expansion into Irvine in the early 1960s. Architect William Pereira (1909-85), known for his distinctive modernist designs in the California Brutalist style seen throughout the two concentric rings that define the campus, included a museum among the main buildings.</p>
+<p>IMCA is delighted to bring this earlier vision to life through a new museum and research institute. The museum will serve as an epicenter for California art and artists and engage diverse publics through innovative exhibitions and programs. The research institute will support collection research and advance interdisciplinary scholarship and learning opportunities for UCI students, faculty and visiting scholars and researchers.</p>
+<p>Through a robust offering of exhibitions and publications, research, seminars and conferences, lectures and artist talks, tours, and educational outreach, IMCA strives to expand our understanding of California&#8217;s artistic past and present, its distinctive social and cultural framework, and its contribution to shaping and challenging the art historical canon.</p>
+<p><strong>Ad photo credit:</strong><span>&#160;</span>Viola Frey,<span>&#160;</span><em>Woman in Blue and Yellow II (May Lady)</em><span>&#160;</span>1983 Ceramic and glazes. The Buck Collection at the UCI Institute and Museum of California Art. Art &#169; Artists' Legacy Foundation / Licensed by VAGA at Artists Rights Society (ARS), New York. Photograph by Fredrik Nilsen Studio.</p>
+                                            </div>
+        	        	
+        	
+        	
+                        
+                        
+            
+                        
+                        <div class="row category-features">
+                                
+                                        
+                                        
+                    <div class="col-md-12 category-feature link-container">
+                        <div aria-label="Kim Kanatani, director of UCI's Institute and Museum of California Art" class="image category-feature-image" role="img" style="background-image: url('files/img/human-experiece/Kim-Kanatani.png')"></div>
+                        <a href="human-experience/art/caring-for-california-art.php">Caring for California Art: Conservators at UCI's Institute and Museum of California Art Restore Works for Reopening</a>
+    				    <span class="tags">
+        				        				    </span>
+				    </div>
+                                
+                                        
+                                        
+                    <div class="col-md-12 category-feature link-container">
+                        <div aria-label="Buck art gallery" class="image category-feature-image" role="img" style="background-image: url('files/img/human-experiece/buckgallery_171030_12_sz.jpg')"></div>
+                        <a href="human-experience/art/unparalleled-california-modern-art-trove.php">Unparalleled California Modern Art Trove</a>
+    				    <span class="tags">
+        				        				    </span>
+				    </div>
+                            </div>
+            
+            
+                        
+                                
+                <div class="container-fluid">
+                    <div class="row category-links align-items-center">
+                        <div class="col-md-12 text-right">
+                            <strong>See more about how UCI is leading the way in</strong>
+                        </div>
+                        <div class="col-md-12">
+                                                                    
+        
+                
+            
+                
+        
+            <a href="https://uci.edu/brilliant/human-experience/#art" class="" target="_blank">
+    
+Art</a>
+                                                    </div>
+                    </div>
+                </div>
+        	        </div>
+
+        
+                    
+        
+    <div class="did-you-know module">
+        <div class="module-content">
+    	    <h2>Did you know?</h2>
+    	    <p>The museum will serve as an epicenter for California art and artists and engage diverse publics through innovative exhibitions and programs. The research institute will support collection research and advance interdisciplinary scholarship and learning opportunities for UCI students, faculty and visiting scholars and researchers.</p>
+        </div>
+    </div>
+        	</div> 
+	
+	            
+			</main>
+			<footer>
+			    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container-fluid footer-features">
+	<div class="row">
+	    
+                <div class="col-md footer-feature">
+            <h2>Make a Gift</h2>
+            <p>UCI’s Brilliant Future campaign is not just about our brilliant future. It’s about yours.</p>
+            <p>
+                        
+        
+                
+            
+                
+        
+            <a href="https://brilliantfuture.uci.edu/" class="footer-feature-link" target="_blank">
+    
+Together, let's advance the dream</a>
+            </p>
+        </div>
+                <div class="col-md footer-feature">
+            <h2>Why UCI?</h2>
+            <p>UCI's collaborative community is fiercely dedicated to saving and improving lives in Orange County and beyond.</p>
+            <p>
+                        
+        
+            
+        	
+	    
+	
+	    	    	        	                        
+	
+            <a href="who-we-are.php" class="footer-feature-link" target="">
+    
+Discover UCI</a>
+            </p>
+        </div>
+                <div class="col-md footer-feature">
+            <h2>OC Community</h2>
+            <p>UCI strives to improve the lives of our students and members of our community every day.</p>
+            <p>
+                        
+        
+            
+        	
+	    
+	
+	    	    	        	                        
+	
+            <a href="serving-oc.php" class="footer-feature-link" target="">
+    
+How is UCI changing lives?</a>
+            </p>
+        </div>
+        
+	</div>
+</div>
+	    		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="footer-content">
+    <div class="social-icons">
+        
+        
+                
+            
+                
+        
+            <a href="https://www.facebook.com/UCIrvine" class="" target="_blank">
+    
+<span aria-hidden="true" class="fab fa-facebook-f social-icon"></span><span class="sr-only">Facebook</span></a>
+        
+        
+                
+            
+                
+        
+            <a href="https://twitter.com/ucirvine" class="" target="_blank">
+    
+<span aria-hidden="true" class="fab fa-twitter social-icon"></span><span class="sr-only">Twitter</span></a>
+        
+        
+                
+            
+                
+        
+            <a href="https://www.instagram.com/ucirvine/" class="" target="_blank">
+    
+<span aria-hidden="true" class="fab fa-instagram social-icon"></span><span class="sr-only">Instagram</span></a>
+    </div>
+
+    <div class="footer-links">
+        <a href="https://uci.edu/">UCI Homepage</a>
+        |
+        <a href="https://uci.edu/privacy">Privacy Notice</a>
+    </div>
+    <p class="copyright"><a href="https://uci.edu/copyright">© 2021 UC Regents</a></p>
+</div>
+
+			</footer>
+			
+<div aria-hidden="true" class="modal fade" id="video-modal" role="dialog" tabindex="-1">
+    <div class="modal-dialog modal-dialog-centered modal-dialog-video modal-lg" role="document">
+        <div class="modal-content">
+            <div class="modal-body">
+                <button aria-hidden="true" class="close" data-dismiss="modal" type="button">
+                    <span aria-hidden="true" class="fas fa-times-circle"></span>
+                </button>
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe allow="autoplay" allowscriptaccess="always" class="embed-responsive-item" id="video" src=""></iframe>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    $(document).ready(function () {
+
+        // Gets the video src from the data-src on each button
+        var $videoSrc;
+
+        $('.button-video').click(function () {
+            $videoSrc = $(this).data("src");
+        });
+
+        // when the modal is opened autoplay it
+        $('#video-modal').on('shown.bs.modal', function (e) {
+            // set the video src to autoplay and not to show related video. Youtube related video is like a box of chocolates... you never know what you're gonna get
+            $("#video").attr('src', $videoSrc + "?autoplay=1&amp;modestbranding=1&amp;showinfo=0");
+        })
+
+        // stop playing the youtube video when I close the modal
+        $('#video-modal').on('hide.bs.modal', function (e) {
+            // a poor man's stop video
+            $("#video").attr('src', $videoSrc);
+        })
+    });
+
+</script>
+
+		</div>
+		    <script src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js" type="text/javascript"></script>
+    <script src="files/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="files/js/scripts.js" type="text/javascript"></script>
+
+	</body>
+</html>

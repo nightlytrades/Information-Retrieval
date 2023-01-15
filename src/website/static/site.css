@@ -1,0 +1,64 @@
+h1 {
+    font-size: 92px;
+}
+
+body {
+    background-color: rgb(0, 33, 41);
+    margin: 0;
+    padding: 100px;
+    font-family: Verdana, sans-serif;
+    color: white;
+}
+
+.form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+}
+
+.inputs {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.button {
+    background-color: transparent;
+    border: 1px solid rgb(0, 126, 158);
+    border-radius: 5px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+.button:hover {
+    background-color: rgb(0, 126, 158);
+    color: black;
+}
+
+.text {
+    border-radius: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    width: 400px;
+}
+
+.search-grid {
+    display: grid;
+    grid-template-rows: repeat(2, 1fr);
+    grid-row-gap: 10px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* height: 200px; */
+}

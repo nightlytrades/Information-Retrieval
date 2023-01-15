@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta content="We dream big here at UC Irvine - just like Californians have always done. Likewise, our goals are achievable. Through your support of UC Irvine's commitment to your health, the environment and the preparation of leaders who understand the global economy and culture, we will be at the forefront of innovation and positive change.  Each donation, whatever its size, brings us one step closer to reaching these goals and realizing our attainable dream of making the world a better place for all." name="description"/>
+<meta content="give, giving, donate, gift, philanthropy, UCI, UC Irvine, campaign, shaping the future" name="keywords"/>
+  <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+  <meta content="width=device-width" name="viewport"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+
+
+  <title>Home | Giving | UCI</title>
+  <link href="/apple-touch-icon-precomposed.png" rel="apple-touch-icon-precomposed"/>
+
+  <link href="/css/global.min.css" rel="stylesheet"/>
+  <link href="/css/site.css" rel="stylesheet"/>
+
+  <link href="/css/homepage-1.css" rel="stylesheet"/>
+  <link href="/css/flexslider-giving.css" rel="stylesheet"/>
+
+  <script src="/js/libs/modernizr-2.5.3.min.js"></script>
+  <script src="/js/google-analytics.js"></script>
+
+
+
+</head>
+<body>
+<header role="banner">
+  <div class="content-container clearfix">
+    <nav>
+      <ul>
+                          <li><a href="http://www.uci.edu">UC Irvine Homepage</a></li>
+                          <li><a href="https://secure.give.uci.edu/">Make a Gift</a></li>
+                          <li><a href="http://advancement.uci.edu/about/contact.php">Contact Us</a></li>
+        </ul>
+    </nav>
+    <a class="wordmark" href="/" style="background-image:url(/img/graphic-identity/giving-wordmark2.png);">UC Irvine Giving</a>
+    <form action="http://www.search.uci.edu/" method="get" role="search">
+      <label class="visuallyhidden" for="search-text">Search</label>
+      <input id="search-text" name="q" size="20" title="Enter search term" type="text"/>
+      <input name="site" type="hidden" value="uci_full"/>
+      <input name="client" type="hidden" value="uci_full"/>
+      <input name="proxystylesheet" type="hidden" value="uci_full"/>
+      <input name="numgm" type="hidden" value="10"/>
+      <input name="ie" type="hidden" value="UTF-8"/>
+      <input class="visuallyhidden" type="submit" value="Search"/>
+    </form>
+  </div>
+</header>
+<nav id="nav-main" role="navigation">
+  <ul class="content-container clearfix">
+        <li>
+    <a class="nav-main-item" href="">Where to Give</a>
+      </li>
+          <li>
+    <a class="nav-main-item" href="/ways/index.php">Ways to Give</a>
+      </li>
+          <li>
+    <a class="nav-main-item" href="https://brilliantfuture.uci.edu/your-impact/">Your Impact</a>
+      </li>
+          <li>
+    <a class="nav-main-item" href="https://brilliantfuture.uci.edu/">Our Brilliant Future</a>
+      </li>
+          <li>
+    <a class="nav-main-item" href="http://ucifoundation.org">UCI Foundation</a>
+      </li>
+  </ul>
+</nav>
+<div role="main">
+  <div class="content-container clearfix">
+        <h1 class="visuallyhidden">Home</h1>
+    <div class="main-visual flexslider">
+      <ul class="slides">
+        
+    
+                  <li aria-hidden="true">
+              <a href="https://uci.edu/brilliant/your-impact.php"><img alt="UCI’s Brilliant Future campaign hits $1 billion" src="/UCI Day.jpg"/></a>
+    
+         <div class="flex-caption">
+            <a href="https://uci.edu/brilliant/your-impact.php" target="_blank"><img src="https://brilliantfuture.uci.edu/wp-content/uploads/Give-to-UCI-Learn-More-btn.png"/></a>
+              <h2 class="flex-headline"> </h2>
+              <div class="flex-subhead"><em>UCI’s Brilliant Future campaign hits $1 billion</em></div>
+              <div class="flex-text">
+                   <p>The Campaign for UCI has reached $1 billion – marking the halfway point of our $2 billion goal. Thank you to our alumni and friends for reaching such a historic landmark! Let’s continue to make our future brilliant together.</p>
+              </div>
+            </div>
+            
+           
+            
+            
+
+        </li>
+        </ul>
+    </div>
+
+      <h1 class="visuallyhidden">Highlights</h1>
+    <div class="buckets clearfix">
+                                <div class="bucket">
+            <h2 class="bucket-header">Support UCI's COVID-19 Efforts</h2>
+                      <a href="https://brilliantfuture.uci.edu/wp-content/uploads/Give-to-the-UCI-Support-Response-Fund-Covid-19.png"><img alt="Coronavirus (COVID-19): Make an immediate difference today!" src="/recognition/gifts/img/Give.uci.edu-COVID-19.png"/></a>
+                      <p><strong>Coronavirus (COVID-19): Make an immediate difference today!</strong></p>
+<p><em>One of UCI's primary concerns is the health and well-being of our community. During this unprecedented time, your support is more important now than ever. By making a gift to one of UCI&#8217;s COVID-19 funds, you can help UCI and UCI Health mitigate the impact of COVID-19.</em></p>
+<p><a href="https://zotfunder.give.uci.edu/g/covid19support"><strong>Support Today</strong></a></p>
+<hr/>
+          </div>
+                                <div class="bucket">
+            <h2 class="bucket-header">News</h2>
+                      <a href="https://news.uci.edu/2021/01/12/alumnus-vincent-steckler-and-his-wife-donate-10-4-million-to-uci/"><img alt="News" src="/recognition/gifts/img/Give.uci.edu-Spring-2021-News.png"/></a>
+                      <p><strong>Alumnus Vincent Steckler &#8217;80 and wife Amanda donate $10.4 million to UCI</strong></p>
+<p><em>This gift from the Steckler Charitable Fund, formed by Vincent and Amanda Steckler, will support art history students as well as the creation of a center committed to making the field of computing more inclusive.</em></p>
+<hr/>
+<p><strong><a href="https://news.uci.edu/category/gifts-and-grants/"><strong>More news &#187;</strong></a></strong></p>
+          </div>
+                                <div class="bucket">
+            <h2 class="bucket-header">Why I Give</h2>
+                      <a href="https://youtu.be/GY1KbiSil2E"><img alt="Why I Give" src="/recognition/gifts/img/ucifoundation.org-singer.jpg"/></a>
+                      <p><strong>There are many reasons to support UCI</strong></p>
+<p><em>From providing student scholarships in his former School of Social Sciences to making the long-awaited UCI School of Law a reality &#8211; and everything in between &#8211; Gary Singer '74 has had a hand in a lot of things at UCI. See why he is so passionate about supporting the university.</em></p>
+<p><strong><a href="https://youtu.be/GY1KbiSil2E" target="_blank">Watch the video &#187;</a></strong></p>
+<hr/>
+<p><strong><a href=" https://give.uci.edu/why-give/index.php" target="_blank">Other reasons to give &#187;</a></strong></p>
+          </div>
+                                <div class="bucket">
+            <h2 class="bucket-header">UCI Magazine</h2>
+                      <a href="https://issuu.com/ucimagazine/docs/uci-winter-2021?fr=sMDU5ODE5ODkxMTE"><img alt="UCI Magazine" src="/img/home/buckets/Give.uci.edu-Spring-2021-Magazine.png"/></a>
+                      <p><strong>The Future of Research</strong></p>
+<p><em> The focus of this issue is the university&#8217;s hallmark of interdisciplinary research &#8211; from its early roots in the campus&#8217;s physical design to the recent opening of the Interdisciplinary Science and Engineering Building.</em></p>
+<hr/>
+          </div>
+      </div>
+
+    
+  
+
+    
+  </div>
+</div>
+<footer>
+  <div class="content-container clearfix">
+          <div class="socialmedia">
+          <ul>
+                                                        <li class="facebook">
+                <a href="https://www.facebook.com/UCIGiving">Facebook</a>
+        </li>
+                                                <li class="twitter">
+                <a href="https://twitter.com/UCIGiving">Twitter</a>
+        </li>
+                                                <li class="youtube">
+                <a href="http://youtube.com/ucifuture">YouTube</a>
+        </li>
+          </ul>
+    </div>
+            <div>
+          <ul>
+                                                        <li>
+                <a href="http://www.ucifoundation.org">UC Irvine Foundation</a>
+        </li>
+                                                <li>
+                <a href="http://advancement.uci.edu/about/index.php">University Advancement</a>
+        </li>
+                                                <li>
+                <a href="http://intra.uadv.uci.edu/">UA Intranet Login</a>
+        </li>
+                                                <li>
+                <a href="https://secure.connect.uci.edu/s/1735/interior-1col.aspx?sid=1735&amp;gid=3&amp;pgid=801&amp;cid=1850">Give to UC Irvine</a>
+        </li>
+          </ul>
+    </div>
+      <div class="legal">
+      <ul>
+        <li><a href="http://uci.edu/">UC Irvine Homepage</a></li>
+        <li><a href="http://uci.edu/privacy/">Privacy Policy</a></li>
+        <li><a href="http://advancement.uci.edu/about/contact.php">Contact Us</a></li>
+        <li><a href="http://advancement.uci.edu/about/careers.php">Careers</a></li>
+          <li class="copyright"><br/><a href="http://uci.edu/copyright/">© 2021 UC Regents</a></li>
+      </ul>
+    </div>
+    <div class="address">
+      <address>
+        University Advancement
+          <br/>
+          100 Theory, Ste 250
+          <br/>
+          Irvine, CA 92697
+          <br/>
+          949-824-0142
+        </address>
+    </div>
+  </div>
+</footer>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+<script src="/js/menuToggle.min.js"></script>
+<!--<script src="/js/viewControls.min.js"></script>-->
+<script src="/js/bucketSizer.min.js"></script>
+<script src="/js/jquery.flexslider-min.js"></script>
+<script src="/js/flexslider-init.js"></script>
+
+</body>
+</html>
